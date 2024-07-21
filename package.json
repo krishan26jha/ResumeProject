@@ -1,4 +1,8 @@
 {
+  "engines" : {
+    "node" : "v20.15.1"
+  },
+  
   "name": "realtime-editor",
   "version": "0.1.0",
   "private": true,
